@@ -1,3 +1,3 @@
 # Committing Scenarios
 
-Real-world Git committing scenarios and interview questions.
+Real-world Git committing scenarios and interview questions .
